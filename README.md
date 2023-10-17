@@ -13,4 +13,4 @@ url_to_load = sign_bcdn_url(url, securityKey, path_allowed, True)
 `url_to_load` can be used for 60 minutes.
 
 Things to consider:
-![to-consider](https://github.com/karmicdice/bunny-cdn-signing-python/blob/master/to-consider.jpg?raw=true)
+![https://github.com/karmicdice/bunny-cdn-signing-python/blob/master/to-consider.jpg?raw=true](https://raw.githubusercontent.com/karmicdice/bunny-cdn-signing-python/master/to-consider.jpg)
